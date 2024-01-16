@@ -7,11 +7,19 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Na Zhang's Personal Website"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "NaZhang"
+description              : &description "Welcome! I am Na Zhang, a passionate researcher and an advocate for the transformative power of robotics in the realm of automation and control. My academic foundation is rooted in a Master’s degree in Electrical Engineering from the University of Technology Malaysia, where I specialized in mechatronics and automatic control, achieving a distinguished CGPA of 3.95/4. 
+
+My expertise lies at the intersection of automation control, image processing, soft continuum robotics, and the burgeoning field of surgical robotics. I have honed my skills through rigorous academic research and hands-on project execution, including significant contributions to the innovative "3D Federal Grasp" project. 
+
+With several scholarly articles and conference presentations to my name, I am keen to push the boundaries of current knowledge and to explore new horizons in robotics. 
+
+I am actively seeking a Ph.D. position where I can delve into advanced research topics such as soft robotics mechanisms that mimic biological systems and advanced image processing techniques that augment the intelligence of autonomous systems. My ultimate goal is to contribute to the development of cutting-edge robotic systems that can perform complex tasks with high precision and adaptability, especially in challenging environments.
+
+On this platform, you will find a portfolio of my projects, publications, and insights into my journey as a researcher. I am looking forward to collaborating with like-minded professionals and academics who are equally passionate about driving forward the frontiers of robotic technology. Let's connect and explore how we can shape the future of this exciting field together."
+url                      : https://NaZhang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
