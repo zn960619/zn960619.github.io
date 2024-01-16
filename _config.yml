@@ -19,9 +19,9 @@ With several scholarly articles and conference presentations to my name, I am ke
 I am actively seeking a Ph.D. position where I can delve into advanced research topics such as soft robotics mechanisms that mimic biological systems and advanced image processing techniques that augment the intelligence of autonomous systems. My ultimate goal is to contribute to the development of cutting-edge robotic systems that can perform complex tasks with high precision and adaptability, especially in challenging environments.
 
 On this platform, you will find a portfolio of my projects, publications, and insights into my journey as a researcher. I am looking forward to collaborating with like-minded professionals and academics who are equally passionate about driving forward the frontiers of robotic technology. Let's connect and explore how we can shape the future of this exciting field together."
-url                      : https://NaZhang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://NaZhangPersonalWebsite.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "zn960619/zn960619.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
